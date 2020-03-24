@@ -11,6 +11,7 @@
 | JSX             | go [**#3**](https://github.com/iammiori/react/issues/3) | JSX의 장점, 문법 |
 | component             | go [**#4**](https://github.com/iammiori/react/issues/4) |[**1. export, import**](https://github.com/iammiori/react/issues/4#issue-422680766)  ,  [**2. props**](https://github.com/iammiori/react/issues/4#issuecomment-474326226)  , [**3.default props**](https://github.com/iammiori/react/issues/4#issuecomment-474330419)  ,  [**4. propType**](https://github.com/iammiori/react/issues/4#issuecomment-474334429)  ,  [**5. state**](https://github.com/iammiori/react/issues/4#issuecomment-474342225)  |
 | event handling             | go [**#5**](https://github.com/iammiori/react/issues/5) |[**1. 렌더링**](https://github.com/iammiori/react/issues/5#issuecomment-477904842)   ,  [**2.e 객체**](https://github.com/iammiori/react/issues/5#issuecomment-477907326)   ,  [**3. state**](https://github.com/iammiori/react/issues/5#issuecomment-477909766)   ,  [**4. 화살표 함수**](https://github.com/iammiori/react/issues/5#issuecomment-477915159)   ,  [**5. key 값으로 관리**](https://github.com/iammiori/react/issues/5#issuecomment-477921863)   ,  [**6. onKeyPress**](https://github.com/iammiori/react/issues/5#issuecomment-477924416)|
+| Life Cycle | go [**#6**]() |[**Life cycle 개념**]() |
 
 
 
