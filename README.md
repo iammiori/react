@@ -14,11 +14,7 @@
 | Life Cycle | go [**#6**]() |[**Life cycle 개념**]() |
 
 
-
-
-
-
-
-
-
 ###### reference : 실무에서 알아야 할 기술은 따로 있다! 리액트를 다루는 기술 (김민준저자)
+
+# RN(React-Native) 삽질 뻘짓  기록기
+- [unable to load script make sure you are either running a metro server](https://github.com/iammiori/react/issues/15#issue-587725554)
