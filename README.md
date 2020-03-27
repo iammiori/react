@@ -18,3 +18,4 @@
 
 # RN(React-Native) 삽질 뻘짓  기록기
 - [unable to load script make sure you are either running a metro server](https://github.com/iammiori/react/issues/15#issue-587725554)
+- [Error: Creating a navigator doesn't take an argument. Maybe you are trying to use React Navigation 4 API with React Navigation 5](https://github.com/iammiori/react/issues/15#issuecomment-604828058)
